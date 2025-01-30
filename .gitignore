@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# macOS specific files
+.DS_Store
+
+# Other common ignores
+*.log
+*.tmp
